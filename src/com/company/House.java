@@ -19,6 +19,7 @@ public class House {
 
 
     public void buildHouse() {
+        //take a part, another one, another one, another one...
 
     }
 }
